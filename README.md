@@ -73,7 +73,7 @@ make html
 
 여러개의 페이지 중에서 가장 나와 맞는 블로그 설명 (굳굳)
 
-* [URL 참고](https://m.blog.naver.com/sooftware/221838103492)
+* [URL 참고](https://blog.naver.com/pjt3591oo/222067596734)
 
 
 
