@@ -2,7 +2,7 @@
 sphinx 테스트 해보기
 
 
-## [Document Html]](https://sungreong.github.io/sphinx-test/)
+## [Document Html](https://sungreong.github.io/sphinx-test/)
 
 패키지 설치
 ```
