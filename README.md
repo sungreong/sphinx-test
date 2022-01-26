@@ -71,6 +71,8 @@ make html
 
 9. github 페이지에 등록하기
 
+여러개의 페이지 중에서 가장 나와 맞는 블로그 설명 (굳굳)
+
 * [URL 참고](https://m.blog.naver.com/sooftware/221838103492)
 
 
