@@ -1,6 +1,9 @@
 # sphinx-test
 sphinx 테스트 해보기
 
+
+## [Document Html]](https://sungreong.github.io/sphinx-test/)
+
 패키지 설치
 ```
 pip install sphinx
@@ -68,8 +71,7 @@ make html
 
 9. github 페이지에 등록하기
 
-* 아래 참고 
+* [URL 참고](https://m.blog.naver.com/sooftware/221838103492)
 
-```
-https://m.blog.naver.com/sooftware/221838103492
-```
+
+
