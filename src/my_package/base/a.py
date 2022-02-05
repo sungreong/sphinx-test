@@ -10,6 +10,4 @@ class BASE:
         """
         self.a = a
     def print_value(self):        
-        """[summary]
-        """
         print(self.a)
